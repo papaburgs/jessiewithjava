@@ -21,8 +21,6 @@ RUN apt-get install -y  \
         x11-common      \
         cups            \
         cups-client     \
-        lpr             \
-        &&              \
+        lpr             
+        
 
-# will add more packages after I determine what is needed
-# This should be tagged v1.1

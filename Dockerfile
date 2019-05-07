@@ -21,6 +21,6 @@ RUN apt-get install -y  \
         x11-common      \
         cups            \
         cups-client     \
-        lpr             
+        lpr           
         
 
